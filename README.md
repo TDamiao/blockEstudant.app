@@ -17,7 +17,7 @@ Se trata de uma aplicação visual basica de como os conceitos por trás de um b
 3. run `npm start` dentro do diretório. 
 
 
-Requiseitar um navegador da Web na demonstração:
+Requiseitar um navegador a URL:
 
 ```
 http://localhost:3000
