@@ -25,4 +25,10 @@ Requiseitar um navegador a URL:
 http://localhost:3000
 ```
 
+Se encontra uma demo no Heroku
+
+```
+https://exemploblockchain.herokuapp.com/
+```
+
 Para windows: se o comando acima não funciono certifique-se de não estar usando a porta 3.000 do seu sistema
