@@ -10,9 +10,9 @@ Se trata de uma aplicação visual basica de como os conceitos por trás de um b
 
 1. Install `Node.js` em sua maquina.
 
-2. cd BlockEstudant
+2. Clone/download o diretório na sua maquina.
 
-3. Clone/download o diretório na sua maquina.
+3. cd BlockEstudant
 
 4. run `npm install` dentro do diretório.
 
